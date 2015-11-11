@@ -13,7 +13,7 @@ publication_Romanov_V_I_2011_LogicDDDUPFMKR => nrel_name_publication:[Логич
 	*);;
 
 publication_Romanov_V_I_2011_LogicDDDUPFMKR => nrel_author:
-Romanov_Vladimir_Ilxich;Bibilo_P_N;;
+Romanov_Vladimir_Ilxich,Bibilo_P_N;;
 
 publication_Romanov_V_I_2011_LogicDDDUPFMKR <- article;;
 
