@@ -12,7 +12,7 @@ publication_Koronchik_D_N_2009_SemanTDUIIS => nrel_name_publication:[Семан�
 	<- lang_ru;;
 	*);;
 
-publication_Koronchik_D_N_2009_SemanTDUIIS => nrel_author:
+publication_Koronchik_D_N_2009_SemanTDUIIS <= nrel_author:
 Koronchik_Denis_Nikolaevich;;
 
 publication_Koronchik_D_N_2009_SemanTDUIIS <- article;;
@@ -28,5 +28,3 @@ publication_Koronchik_D_N_2009_SemanTDUIIS => nrel_number_page: ..2009_SemanTDUI
 -> rrel_from : 155;;
 -> rrel_by : 158;;
 *);;
-
-publication_Koronchik_D_N_2009_SemanTDUIIS => nrel_count_page : 4;;

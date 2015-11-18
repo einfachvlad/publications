@@ -14,7 +14,7 @@ publication_Romanov_V_I_2011_ProduSOHDL => nrel_name_publication:[Продукц
 	<- lang_ru;;
 	*);;
 
-publication_Romanov_V_I_2011_ProduSOHDL => nrel_author:
+publication_Romanov_V_I_2011_ProduSOHDL <= nrel_author:
 Romanov_Vladimir_Ilxich; Bibilo_P_N;;
 
 publication_Romanov_V_I_2011_ProduSOHDL <- article;;
@@ -29,5 +29,3 @@ publication_Romanov_V_I_2011_ProduSOHDL => nrel_number_page: ..2011_ProduSOHDL(*
 -> rrel_from : 9;;
 -> rrel_by : 20;;
 *);;
-
-publication_Romanov_V_I_2011_ProduSOHDL => nrel_count_page : 11;;

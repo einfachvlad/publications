@@ -12,7 +12,7 @@ publication_Romanov_V_I_2011_LogicDDDUPFMKR => nrel_name_publication:[Логич
 	<- lang_ru;;
 	*);;
 
-publication_Romanov_V_I_2011_LogicDDDUPFMKR => nrel_author:
+publication_Romanov_V_I_2011_LogicDDDUPFMKR <= nrel_author:
 Romanov_Vladimir_Ilxich;Bibilo_P_N;;
 
 publication_Romanov_V_I_2011_LogicDDDUPFMKR <- article;;
@@ -27,5 +27,3 @@ publication_Romanov_V_I_2011_LogicDDDUPFMKR => nrel_number_page: ..2011_LogicDDD
 -> rrel_from : 279;;
 -> rrel_by : 279;;
 *);;
-
-publication_Romanov_V_I_2011_LogicDDDUPFMKR => nrel_count_page : 1;;	
